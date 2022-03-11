@@ -17,7 +17,6 @@ burger.addEventListener('click', () => {
     navLinks.classList.toggle('active');
     burger.classList.toggle('open');
     logo.classList.toggle('enabled');
-
     
 });
 
